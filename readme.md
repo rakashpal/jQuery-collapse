@@ -34,7 +34,7 @@ This Simple plugin for hide and show description section on click of title eleme
 		</div>
 
 ### screenshot
-<img src="jquery-collapse.png" style="width:100%:height:auto;" alt="Screenshot"/>
+<img src="jQuery-collapse.png" style="width:100%:height:auto;" alt="Screenshot"/>
 
 
 
